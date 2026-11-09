@@ -1,0 +1,17 @@
+# QuestaSim / ModelSim generated files
+work/
+*.wlf
+*.mpf
+*.cr.mti
+modelsim.ini
+transcript
+*.ucdb
+covhtmlreport/
+*.vcd
+
+# Editor backups / OS junk
+*.bak
+*~
+*.swp
+.DS_Store
+Thumbs.db
